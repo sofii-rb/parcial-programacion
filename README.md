@@ -9,15 +9,15 @@ Este proyecto fue realizado como parcial de programación orientada a objetos. S
 
 ## Archivos del proyecto
 
-- `pelicula.py`: Contiene la clase `Pelicula`, con sus atributos, getters, setters y métodos como `prestar`, `devolver`, etc.
-- `main.py`: Archivo que importa la clase y la prueba con varias películas.
-- `README.md`: Este documento descriptivo.
+- pelicula.py: Contiene la clase Pelicula, con sus atributos, getters, setters y métodos como prestar, devolver, etc.
+- main.py: Archivo que importa la clase y la prueba con varias películas.
+- README.md: Este documento descriptivo.
 
 ## Ejecución
 
 Para correr el programa:
 
-1. Asegúrate de tener `pelicula.py` y `main.py` en la misma carpeta.
+1. Asegúrate de tener pelicula.py y main.py en la misma carpeta.
 2. Abre la terminal en esa carpeta.
 3. Ejecuta:
 
